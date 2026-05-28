@@ -1,7 +1,7 @@
 [project]
 name = "flax-arma"
 version = "0.1.0"
-description = "Add your description here"
+description = "Toy ARMA model in JAX/Flax, just for learning purposes"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
